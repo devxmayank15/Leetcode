@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/devxmayank13/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/devxmayank13/Leetcode/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/devxmayank13/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
