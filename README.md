@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devxmayank13/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/devxmayank13/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/devxmayank13/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devxmayank13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devxmayank13/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/devxmayank13/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devxmayank13/Leetcode/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devxmayank13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devxmayank13/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
