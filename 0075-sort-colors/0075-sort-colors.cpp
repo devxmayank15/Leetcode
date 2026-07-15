@@ -1,11 +1,11 @@
 class Solution {
 public:
 
-void swap(int &a, int &b){
-    int temp=a;
-    a=b;
-    b=temp;
-}
+// void swap(int &a, int &b){
+//     int temp=a;
+//     a=b;
+//     b=temp;
+// }
     void sortColors(vector<int>& nums) {
         int n=nums.size();
         for (int i=0 ; i< n-1; i++){
