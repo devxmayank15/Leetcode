@@ -12,11 +12,11 @@ public:
     int guessNumber(int n) {
         int low = 1;
         int high = n;
-        int mid,res;
+        int mid;
 
         while (low <= high) {
             mid = low + (high - low) / 2;
-            res = guess(mid);
+            int res = guess(mid);
             if (res == 0)
                 return mid;
             else if (res == -1)
