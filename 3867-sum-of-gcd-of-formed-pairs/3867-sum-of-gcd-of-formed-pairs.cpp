@@ -16,13 +16,11 @@ int gcd(int a, int b) {
         }
         
         sort(prefixgcd.begin(), prefixgcd.end());
+        
         int l=0, r=n-1; long long sum=0;
-
         while(l<r)
-        {
             sum=sum+ gcd(prefixgcd[l++], prefixgcd[r--]);
-            
-        }
+
         return sum;
     }
 };
