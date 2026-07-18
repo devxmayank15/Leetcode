@@ -8,6 +8,7 @@ public:
         while (j >= 0) {
             while (j >= 0 && s[j] == ' ')
                 j--;
+            // we will remove space at last;
             // if (j < 0)
             //     break;
             int i = j;
