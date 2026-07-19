@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devxmayank13/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devxmayank13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/devxmayank13/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/devxmayank13/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/devxmayank13/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/devxmayank13/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
