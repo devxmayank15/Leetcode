@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devxmayank13/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/devxmayank13/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/devxmayank13/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/devxmayank13/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devxmayank13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxmayank13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/devxmayank13/Leetcode/tree/master/0136-single-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devxmayank13/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/devxmayank13/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devxmayank13/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/devxmayank13/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/devxmayank13/Leetcode/tree/master/0326-power-of-three) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devxmayank13/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
