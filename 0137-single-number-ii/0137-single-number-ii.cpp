@@ -10,9 +10,12 @@ public:
                     count++;
             }
             if (count % 3 != 0)
-                ans |= (1 << bit);
+                ans = ans | (1 << bit); // like in arm we used to shift 16 times, it adds the bit at the right position.
         }
 
         return ans;
     }
 };
+
+
+// else we can use bit mask concept , arm concept , n & (1<<bit)
