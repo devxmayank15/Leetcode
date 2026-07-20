@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/devxmayank13/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/devxmayank13/Leetcode/tree/master/0326-power-of-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/devxmayank13/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
