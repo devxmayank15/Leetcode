@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/devxmayank13/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/devxmayank13/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
@@ -127,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devxmayank13/Leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
