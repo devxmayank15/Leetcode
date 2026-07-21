@@ -1,7 +1,7 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-
+// daa string matcjing
         int n = haystack.size();
         int m = needle.size();
 
