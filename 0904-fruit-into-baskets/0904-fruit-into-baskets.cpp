@@ -3,7 +3,7 @@ public:
     int totalFruit(vector<int>& fruits) {
         int n=fruits.size();
         unordered_map<int,int> mp;
-        int longest=0;
+        int longest=1;
         int left=0;
         for(int right=0; right<n;right++)
         {
