@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/devxmayank13/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/devxmayank13/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/devxmayank13/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devxmayank13/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devxmayank13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devxmayank13/Leetcode/tree/master/0242-valid-anagram) |
+| [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devxmayank13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String Matching
 |  |
 | ------- |
