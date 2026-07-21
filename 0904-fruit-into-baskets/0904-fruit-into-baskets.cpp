@@ -10,7 +10,7 @@ public:
             mp[fruits[right]]++;          
             while(mp.size() > 2){
                 mp[fruits[left]]--;
-                if(mp[fruits[left]] ==0)
+                if(mp[fruits[left]] <=0)
                     mp.erase(fruits[left]);
                 left++;
             }
