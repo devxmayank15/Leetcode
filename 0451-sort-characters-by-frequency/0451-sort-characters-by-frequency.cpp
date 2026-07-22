@@ -5,8 +5,8 @@ public:
         unordered_map<char,int> freq;
         for (char ch:s)
             freq[ch]++;
-        vector<pair<int, char>> v;
 
+        vector<pair<int, char>> v;
         for (auto x : freq) 
             v.push_back({x.second, x.first});
         
