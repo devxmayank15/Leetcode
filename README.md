@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/devxmayank13/Leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -162,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/devxmayank13/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/devxmayank13/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/devxmayank13/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/devxmayank13/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/devxmayank13/Leetcode/tree/master/0326-power-of-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/devxmayank13/Leetcode/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
