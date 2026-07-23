@@ -1,28 +1,19 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        ListNode* start=head;
-        string temp="";
-
-        while(start){
-            temp+= start->val;
-            start=start->next;
+        ListNode* temp=head;
+        string ans="";
+        while(temp){
+            ans+= temp->val;
+            temp=temp->next;
         }
-        if(isPalindrome(temp))
+        if(isPalindrome(ans))
             return true;
         return false;
 
 }
+
+// else we can find middle and reverse it ill middle and compare the both half parts
 
 
 
