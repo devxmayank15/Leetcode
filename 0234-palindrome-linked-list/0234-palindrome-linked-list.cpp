@@ -3,12 +3,11 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode* temp=head;
         string ans="";
-        while(temp)
-        {
+        while(temp){
             ans+= temp->val;
             temp=temp->next;
         }
-
+        
         if(isPalindrome(ans))
             return true;
         return false;
