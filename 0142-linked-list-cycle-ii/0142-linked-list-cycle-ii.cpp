@@ -5,28 +5,28 @@ public:
 
          ListNode *slow=head;
          ListNode *fast=head;
+         bool iscycle=false;
          while(fast && fast->next)
          {
             slow=slow->next;
             fast=fast->next->next;
-
             if(slow==fast){
-                
-                ListNode* ptrs=head;
-                while (slow != ptrs){
-                    ptrs=ptrs->next;
-                    slow=slow->next;
-                }
-                return ptrs;
-         }
+                iscycle = true;
+                break;
+            }
          }
 
+         if(iscycle)
+         {
+            slow=head;
+            while(slow != fast){
+                slow=slow->next;
+                fast=fast->next;
+            }
+            return fast; //or slow
 
-                
-            
+         }
 
-         
-        
         return NULL;
     }
 };
