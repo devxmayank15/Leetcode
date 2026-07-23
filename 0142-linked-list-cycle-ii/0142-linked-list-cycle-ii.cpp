@@ -10,8 +10,7 @@ class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
         unordered_map<ListNode*, int> freq;
-        while (head != NULL) 
-        {
+        while (head != NULL) {
             freq[head]++;        // address frequency++ badha denge.
             if (freq[head] == 2)
                 return head;
