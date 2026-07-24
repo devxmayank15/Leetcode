@@ -8,22 +8,20 @@ public:
 
         int count = 0;
         ListNode* var = head;
-
         while (var) {
-            count++;
-            var = var->next;
+            count++;         var = var->next;
         }
-
+// ek point ke badd roataion ka value same rhega
         k = k% count;
         if (k == 0)
             return head;
 
         ListNode* temp = head;
         int steps = count - k - 1;
-
         while (steps--) {
             temp = temp->next;
         }
+
         ListNode *var1=temp;
         while(var1->next) 
             var1=var1->next;
@@ -31,12 +29,6 @@ public:
         head=temp->next;
         temp->next=NULL;
 
-
-
-
-
-        return head;
-        
-        
+    return head;
     }
 };
