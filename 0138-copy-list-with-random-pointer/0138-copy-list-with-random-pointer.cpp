@@ -10,8 +10,10 @@ public:
         }
         curr=head;
         while(curr){
-            mpp[curr]->next = mpp[curr->next];
-            mpp[curr]->random= mpp[curr->random];
+            if(curr->next)
+                mpp[curr]->next = mpp[curr->next];
+            if(curr->random)
+                mpp[curr]->random= mpp[curr->random];
             curr=curr->next;
         }
         return mpp[head];
