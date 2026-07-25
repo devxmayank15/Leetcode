@@ -1,10 +1,12 @@
 class MyQueue {
 public:
-    MyQueue() {      
+    MyQueue() {
+        
     }
     stack<int> st1,st2;
-   
-    void push(int x) {       
+    
+    void push(int x) {
+        
         while(st2.size() >=1)
         {
             st1.push(st2.top());
@@ -16,6 +18,11 @@ public:
             st2.push(st1.top());
             st1.pop();
         }
+
+
+
+
+
     }
     
     int pop() {
