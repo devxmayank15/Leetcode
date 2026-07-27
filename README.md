@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/devxmayank13/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxmayank13/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/devxmayank13/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/devxmayank13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devxmayank13/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxmayank13/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devxmayank13/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -273,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devxmayank13/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxmayank13/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
