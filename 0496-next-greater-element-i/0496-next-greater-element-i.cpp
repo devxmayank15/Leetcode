@@ -4,7 +4,7 @@ public:
         vector<int> ans;
 
         for (int x : nums1) {
-            int index = -1;
+            int index;
             for (int i = 0; i < nums2.size(); i++) {
                 if (nums2[i] == x) {
                     index = i;
