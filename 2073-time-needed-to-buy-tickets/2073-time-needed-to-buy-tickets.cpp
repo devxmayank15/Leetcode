@@ -20,7 +20,7 @@ public:
                 return time;
             
             if(person.second > 0)
-                q.push({person.first, person.second});
+                q.push(person);
 
             
 
