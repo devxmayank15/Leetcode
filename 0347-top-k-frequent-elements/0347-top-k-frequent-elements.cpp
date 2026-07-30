@@ -19,9 +19,7 @@ public:
         for(int i=0;i<k;i++)
         {
             ans.push_back(temp[i].second);   
-        }
-
-        
+        }       
     return ans;
     }
 };
