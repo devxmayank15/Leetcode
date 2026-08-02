@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/devxmayank13/Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/devxmayank13/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/devxmayank13/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/devxmayank13/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxmayank13/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devxmayank13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devxmayank13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/devxmayank13/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/devxmayank13/Leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/devxmayank13/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/devxmayank13/Leetcode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/devxmayank13/Leetcode/tree/master/0441-arranging-coins) |
+| [0877-stone-game](https://github.com/devxmayank13/Leetcode/tree/master/0877-stone-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/devxmayank13/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/devxmayank13/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
