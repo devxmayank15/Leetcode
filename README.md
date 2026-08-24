@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/devxmayank13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/devxmayank13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devxmayank13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devxmayank13/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/devxmayank13/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devxmayank13/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/devxmayank13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devxmayank13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devxmayank13/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/devxmayank13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/devxmayank13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devxmayank13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devxmayank13/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/devxmayank13/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/devxmayank13/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/devxmayank13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
