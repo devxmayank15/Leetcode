@@ -5,6 +5,7 @@ public:
 
     int maxLevelSum(TreeNode* root) {
 
+        if(root==NULL)  return 0;
         queue<TreeNode*> q;
         q.push(root);
         int maxsum=INT_MIN;
