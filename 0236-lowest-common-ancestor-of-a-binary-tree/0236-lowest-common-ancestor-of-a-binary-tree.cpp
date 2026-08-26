@@ -3,12 +3,10 @@ public:
 
 map<TreeNode*,int> mp;
 map<TreeNode*,TreeNode*> parent;
-
 int level(TreeNode* root)
 {
     if(root == NULL)
         return -1;
-
     queue<tuple<TreeNode*, int, TreeNode*>> q;
     q.push({root, 0, NULL});
 
@@ -37,19 +35,10 @@ int level(TreeNode* root)
 }
 
 
+TreeNode* rlca( TreeNode* p, TreeNode* q)
+{
+    if(p==q)    return p;
 
-
-
-
-
-
-
-
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        
-        level(root);
-        while(p != q)
-        {
             int pl=mp[p];
             int ql=mp[q];
 
@@ -62,13 +51,43 @@ int level(TreeNode* root)
             {
                 q=parent[q];
                 p=parent[p];
-
             }
 
+            return rlca(p,q);
+
+}
+
+
+
+
+
+
+
+
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        
+        level(root);
+        
+    //     while(p != q)
+    //     {
+    //         int pl=mp[p];
+    //         int ql=mp[q];
+
+    //         if(pl<ql)
+    //             q = parent[q];
+    //         else if(pl>ql)
+    //             p=parent[p];
             
+    //         else
+    //         {
+    //             q=parent[q];
+    //             p=parent[p];
+    //         }
+            
+    //     }
+    // return p;
 
-        }
 
-return p;
+    return rlca(p,q);
     }
 };
