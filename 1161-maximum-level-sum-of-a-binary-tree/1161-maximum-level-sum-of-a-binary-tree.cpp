@@ -19,7 +19,6 @@ public:
             i++;
 
             int sum = 0;
-
             while(size--)
             {
                 TreeNode* curr = q.front();
@@ -40,7 +39,6 @@ public:
                 level = i;
             }
         }
-
         return level;
     }
 };
