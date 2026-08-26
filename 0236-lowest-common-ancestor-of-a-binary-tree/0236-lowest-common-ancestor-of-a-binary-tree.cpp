@@ -3,6 +3,18 @@ public:
 
 map<TreeNode*,int> mp;
 map<TreeNode*,TreeNode*> parent;
+
+void rlevel(TreeNode* root, int level, TreeNode* par)
+{
+    if(root==NULL)  return ;
+    mp[root]=level;
+    parent[root]= par;
+
+    rlevel(root->left, level+1, root);
+    rlevel(root->right, level+1, root);
+
+
+}
 int level(TreeNode* root)
 {
     if(root == NULL)
@@ -19,12 +31,8 @@ int level(TreeNode* root)
         int lev = get<1>(x);
         TreeNode* par=get<2>(x);
 
-        // if(node == p)
-        //     return lev;
         mp[node] = lev;
         parent[node]=par;
-        
-
         if(node->left !=NULL)
             q.push({node->left, lev + 1, node});
 
@@ -66,7 +74,7 @@ TreeNode* rlca( TreeNode* p, TreeNode* q)
 
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         
-        level(root);
+        rlevel(root, 0, NULL);
         
     //     while(p != q)
     //     {
