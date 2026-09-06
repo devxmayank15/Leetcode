@@ -11,6 +11,9 @@ public:
         root->left=NULL;
         root->right=nextright;
         nextright=root;
+
+
+        return;
         
     }
 };
