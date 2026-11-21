@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devxmayank13/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxmayank13/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devxmayank13/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/devxmayank13/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/devxmayank13/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devxmayank13/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/devxmayank13/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devxmayank13/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Game Theory
 |  |
 | ------- |
