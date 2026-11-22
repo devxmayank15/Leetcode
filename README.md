@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/devxmayank13/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/devxmayank13/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/devxmayank13/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/devxmayank13/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devxmayank13/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devxmayank13/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devxmayank13/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/devxmayank13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/devxmayank13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/devxmayank13/Leetcode/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/devxmayank13/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/devxmayank13/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/devxmayank13/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/devxmayank13/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/devxmayank13/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
