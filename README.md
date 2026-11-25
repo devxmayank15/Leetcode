@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/devxmayank13/Leetcode/tree/master/0258-add-digits) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devxmayank13/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devxmayank13/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devxmayank13/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devxmayank13/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/devxmayank13/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devxmayank13/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devxmayank13/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devxmayank13/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devxmayank13/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devxmayank13/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devxmayank13/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devxmayank13/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
